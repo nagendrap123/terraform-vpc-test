@@ -1,4 +1,4 @@
-output "azs_info" {
-    value = module.vpc.azs  #<module>.<modue name>.<output>
+# output "azs_info" {
+#     value = module.vpc.azs  #<module>.<modue name>.<output>
   
-}
+# }
